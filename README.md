@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=alitnk)
+I'll eventually put something here
+
+<!-- ![](https://komarev.com/ghpvc/?username=alitnk) -->
 <!--
 **alitnk/alitnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
